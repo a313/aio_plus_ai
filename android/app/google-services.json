@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955957542219",
+    "project_id": "aio-plus-ai",
+    "storage_bucket": "aio-plus-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955957542219:android:a899d0a6fc13de39967cce",
+        "android_client_info": {
+          "package_name": "com.aioplusai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAAVfvN3nQH1QLnSqfPqmbgND4xzkshWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
